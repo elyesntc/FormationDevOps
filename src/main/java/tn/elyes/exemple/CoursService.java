@@ -5,26 +5,26 @@ import java.util.List;
 public class CoursService {
     public List getAvailableCours(CoursType type){
 
-        List brands = new ArrayList();
+        List contenu = new ArrayList();
 
         if(type.equals(CoursType.CLOUD)){
-            brands.add("IaaS");
-            brands.add("PaaS");
-            brands.add("SaaS");
+            contenu.add("IaaS");
+            contenu.add("PaaS");
+            contenu.add("SaaS");
 
         }else if(type.equals(CoursType.DEVOPS)){
-            brands.add("Jenkins");
-            brands.add("Ansible");
-            brands.add("CI/CD");
+            contenu.add("Jenkins");
+            contenu.add("Ansible");
+            contenu.add("CI/CD");
 
         }else if(type.equals(CoursType.DOCKER)){
-            brands.add("Dockerfile");
-            brands.add("Docker Compose");
-            brands.add("Docker Swarm");
+            contenu.add("Dockerfile");
+            contenu.add("Docker Compose");
+            contenu.add("Docker Swarm");
 
         }else {
-            brands.add("Pas de cours disponibles");
+            contenu.add("Pas de cours disponibles");
         }
-        return brands;
+        return contenu;
     }
 }

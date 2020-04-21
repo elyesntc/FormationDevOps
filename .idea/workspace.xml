@@ -1,31 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a966a6a2-d812-419e-8e4b-ef31274e9735" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/elyes/exemple/CoursService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/elyes/exemple/SeclectCoursServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/tn/elyes/model/CoursType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tn/elyes/exemple/CoursService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tn/elyes/exemple/SeclectCoursServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/tn/elyes/model/CoursType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-04-16" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/ElyesGassara/org/apache/jsp/result_jsp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/ElyesGassara/org/apache/jsp/result_jsp.java" afterDir="false" />
+    <list default="true" id="a966a6a2-d812-419e-8e4b-ef31274e9735" name="Default Changelist" comment="second commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/tn/elyes/exemple/CoursService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tn/elyes/exemple/CoursService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/tn/elyes/exemple/CoursService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/tn/elyes/exemple/CoursService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/logs/access_log.2020-04-16" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/ElyesGassara/org/apache/jsp/result_jsp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/tomcat/work/Tomcat/localhost/ElyesGassara/org/apache/jsp/result_jsp.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +30,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -113,34 +99,46 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586990237116">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587486887209">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586990237116" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1586990986450">
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1587486887209" />
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1587487757640">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586990986450" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1586990986450">
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1587487757640" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1587487757771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586990986450" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1586990986450">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1587487757771" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1587487757771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586990986450" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1586990986450">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1587487757771" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1587487757770">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586990986450" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1586990769404">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1587487757770" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1587487757771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586990769404" />
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1587038826757">
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587487757771" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1587487362570">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587038826757" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587487362570" />
+    <state x="390" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1587484786553">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587484786553" />
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587487593033">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587487593033" />
   </component>
 </project>
